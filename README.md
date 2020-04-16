@@ -12,5 +12,5 @@ https://machikolacey.github.io/vue-todo-list/
 <li>AXIOS</li>
 </ul>
 
-
+<img src = "images/todolist.png" style="width:100%;"/>
 
